@@ -9,3 +9,7 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+
+## Documents
+
+- CRM PRD: `docs/crm-prd.md`
